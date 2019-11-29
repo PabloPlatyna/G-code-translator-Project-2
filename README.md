@@ -16,7 +16,7 @@ Streowania:
 [Demo](https://pabloplatyna.github.io/G-code-translator-Project-2/)
 
 W zalerzności od sterowania wpisz:
-sinumerik: g00, g01, g02, g03.
-hass: g0, g1, g2, g3.
-hh: g0000, g0001, g0002, g0003.
+Sinumerik: g00, g01, g02, g03.
+Hass: g0, g1, g2, g3.
+HH: g0000, g0001, g0002, g0003.
 
