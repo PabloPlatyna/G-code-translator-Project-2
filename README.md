@@ -14,3 +14,26 @@ Streowania:
 -HH
 
 [Demo](https://pabloplatyna.github.io/G-code-translator-Project-2/)
+
+
+let sinumerik = {
+    1: "g00",
+    2: "g01",
+    3: "g02",
+    4: "g03",
+
+};
+let hass = {
+    1: "g0",
+    2: "g1",
+    3: "g2",
+    4: "g3",
+
+};
+let hh = {
+    1: "g0000",
+    2: "g0001",
+    3: "g0002",
+    4: "g0003",
+
+};
