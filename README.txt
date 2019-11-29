@@ -13,4 +13,4 @@ Streowania:
 -Hass
 -HH
 
-Demo :[Demo](https://pabloplatyna.github.io/G-code-translator-Project-2/)
+[Demo](https://pabloplatyna.github.io/Stoper-1-Project-js/)
