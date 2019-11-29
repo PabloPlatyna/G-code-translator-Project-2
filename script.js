@@ -155,10 +155,6 @@ choice.forEach(button => {
 
     LnInput = choise11(choice, button);
 
-    // if (LnInput == LnOutPut) {
-    //     console.log("elo");
-    // }
-
     const getText1 = document.querySelector(".input>textarea");
     input = getText1.value;
     //replace forEach Database
