@@ -1,0 +1,85 @@
+    body {
+        background-color: #161B20;
+        padding: 0;
+        margin: 0;
+        color: #2CBFA4;
+        font-size: 20px;
+    }
+    
+    .container-top {
+        top: 100px;
+        border: 1px solid #2CBFA4;
+        width: 1280px;
+        min-height: 250px;
+        background-color: #222930;
+        border-radius: 10px;
+        position: relative;
+    }
+    
+    .cont-navbar {
+        height: 45px;
+        border-bottom: 1px solid #2CBFA4;
+    }
+    
+    .input {
+        width: 639px;
+        float: left;
+        margin: 0;
+        border-right: 1px solid #2CBFA4;
+        min-height: 215px;
+    }
+    
+    .output {
+        width: 639px;
+        float: left;
+        margin: 0;
+        padding: 5;
+        min-height: 205px;
+        text-align: left;
+        color: #2CBFA4;
+        margin-bottom: 0px;
+    }
+    
+    textarea.note {
+        background-color: #222930;
+        width: 100%;
+        display: block;
+        max-width: 100%;
+        text-align: left;
+        border: none;
+        color: #2CBFA4;
+        padding: 5px;
+        margin-bottom: 10px;
+        height: auto;
+        min-height: 190px;
+    }
+    
+    textarea.note:focus {
+        outline: none !important;
+    }
+    
+    .choice {
+        float: left;
+        margin: 5px 10px;
+        cursor: pointer;
+    }
+    
+    .choicefocus {
+        color: rgb(0, 153, 255);
+    }
+    
+    .exchange {
+        width: 50px;
+        float: left;
+        height: 45px;
+        font-size: 30px;
+        line-height: 45px;
+        margin-left: 400px;
+        cursor: pointer;
+    }
+    
+    .choiceOut {
+        float: left;
+        margin: 5px 10px;
+        cursor: pointer;
+    }
