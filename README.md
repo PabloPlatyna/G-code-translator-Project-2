@@ -15,25 +15,8 @@ Streowania:
 
 [Demo](https://pabloplatyna.github.io/G-code-translator-Project-2/)
 
+W zalerzności od sterowania wpisz:
+sinumerik: g00, g01, g02, g03.
+hass: g0, g1, g2, g3.
+hh: g0000, g0001, g0002, g0003.
 
-let sinumerik = {
-    1: "g00",
-    2: "g01",
-    3: "g02",
-    4: "g03",
-
-};
-let hass = {
-    1: "g0",
-    2: "g1",
-    3: "g2",
-    4: "g3",
-
-};
-let hh = {
-    1: "g0000",
-    2: "g0001",
-    3: "g0002",
-    4: "g0003",
-
-};
