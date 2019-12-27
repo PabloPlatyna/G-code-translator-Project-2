@@ -13,7 +13,7 @@ Streowania:
 -Hass
 -HH
 
-[Demo](https://pabloplatyna.github.io/G-code-translator-Project-2/)
+[Demo](https://pawelpyc154.github.io/G-code-translator-Project-2/)
 
 W zalerzności od sterowania wpisz:
 Sinumerik: g00, g01, g02, g03.
